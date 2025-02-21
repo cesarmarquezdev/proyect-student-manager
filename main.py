@@ -70,6 +70,7 @@ def section_one():
                 while second_opcion =="s":
                     task = str(input("A cual evaluacion  desea agregar la nota?"))
 #Cambio para probar el commit 
+#hacidnfo pruebas 
                     
 
 

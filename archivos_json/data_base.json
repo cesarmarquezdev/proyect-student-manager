@@ -1,0 +1,58 @@
+{
+    "estudiantes": [
+        {
+            "name": "cesar",
+            "subjet": {
+                "math": {}
+            }
+        },
+        {
+            "name": "ana",
+            "subjet": {
+                "ma": {
+                    "task": {
+                        "ma": [
+                            13
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "juan",
+            "subject": {
+                "math": {
+                    "task": {
+                        "ex1": [
+                            13
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "pedro",
+            "subject": {
+                "math": {
+                    "task": {
+                        "ex": [
+                            18
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "juan",
+            "subject": {
+                "math": {
+                    "task": {
+                        "ex1": [
+                            13
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

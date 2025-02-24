@@ -75,14 +75,19 @@ def add_task(task: str, subjet: str) -> bool:
     return result
     
 #Con esta opcion actualizamos al estudiante en la base de datos, Borramos el viejo, ponemos al nuevo        
-        
+def add_subjet2(subjet: str, name: str) -> bool:
+    student = get_student(name)
+    
+    wrapped_subjet = student["materia"]
+    wrapped_subjet[subjet] = {}
+    student["materia"] = wrapped_subjet
+            
 def update_student_in_db(student: dict) ->bool:
     
     data = get_data()
     students = data["estudiantes"]
     
     for i in range(len(students)):
-        print(students[i]["name"])
         if students[i]["name"] == student["name"]:
             
             students[i] = student

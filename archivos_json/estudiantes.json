@@ -1,0 +1,98 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "cesar",
+            "materias": {
+                "math": {
+                    "task": {
+                        "exa1": ""
+                    }
+                }
+            }
+        },
+        {
+            "nombre": "ana",
+            "materias": {
+                "bio": {
+                    "task": {
+                        "task1": "18",
+                        "exa1": "17"
+                    }
+                },
+                "math": {
+                    "task": {
+                        "exa1": "13",
+                        "tare3": "18",
+                        "exa3": "18",
+                        "exa4": "19",
+                        "fisica": "14",
+                        "taller1": "15"
+                    }
+                },
+                "fisic": {
+                    "task": {
+                        "s": "13"
+                    }
+                },
+                "fisica": {
+                    "task": {
+                        "exa1": "10"
+                    }
+                },
+                "his": {
+                    "task": {
+                        "exa": "19"
+                    }
+                }
+            }
+        },
+        {
+            "nombre": "pepe",
+            "materias": {
+                "reli": {
+                    "task": {}
+                },
+                "fisc": {
+                    "task": {
+                        "exa1": ""
+                    }
+                },
+                "math": {
+                    "task": {
+                        "ex1": ""
+                    }
+                }
+            }
+        },
+        {
+            "nombre": "loli",
+            "materias": {
+                "math": {
+                    "task": {
+                        "ex1": ""
+                    }
+                }
+            }
+        },
+        {
+            "nombre": "lolu",
+            "materias": {
+                "math": {
+                    "task": {
+                        "ex1": "16"
+                    }
+                }
+            }
+        },
+        {
+            "nombre": "pablo",
+            "materias": {
+                "history": {
+                    "task": {
+                        "proyect1": "17"
+                    }
+                }
+            }
+        }
+    ]
+}
